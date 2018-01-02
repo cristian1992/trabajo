@@ -2,7 +2,39 @@
   "cordova-plugin-whitelist": {
     "source": {
       "type": "registry",
-      "id": "cordova-plugin-whitelist@1"
+      "id": "cordova-plugin-whitelist"
+    },
+    "is_top_level": true,
+    "variables": {}
+  },
+  "cordova-plugin-console": {
+    "source": {
+      "type": "registry",
+      "id": "cordova-plugin-console"
+    },
+    "is_top_level": true,
+    "variables": {}
+  },
+  "cordova-plugin-device": {
+    "source": {
+      "type": "registry",
+      "id": "cordova-plugin-device"
+    },
+    "is_top_level": true,
+    "variables": {}
+  },
+  "cordova-plugin-splashscreen": {
+    "source": {
+      "type": "registry",
+      "id": "cordova-plugin-splashscreen"
+    },
+    "is_top_level": true,
+    "variables": {}
+  },
+  "ionic-plugin-keyboard": {
+    "source": {
+      "type": "registry",
+      "id": "ionic-plugin-keyboard"
     },
     "is_top_level": true,
     "variables": {}
@@ -10,9 +42,17 @@
   "cordova-plugin-camera": {
     "source": {
       "type": "registry",
-      "id": "cordova-plugin-camera@3.0.0"
+      "id": "cordova-plugin-camera@2.4.1"
     },
     "is_top_level": true,
+    "variables": {}
+  },
+  "cordova-plugin-compat": {
+    "source": {
+      "type": "registry",
+      "id": "cordova-plugin-compat@^1.1.0"
+    },
+    "is_top_level": false,
     "variables": {}
   },
   "cordova-plugin-file-transfer": {
@@ -29,30 +69,6 @@
       "id": "cordova-plugin-file@^5.0.0"
     },
     "is_top_level": false,
-    "variables": {}
-  },
-  "cordova-plugin-barcodescanner": {
-    "source": {
-      "type": "registry",
-      "id": "cordova-plugin-barcodescanner@^0.7.3"
-    },
-    "is_top_level": true,
-    "variables": {}
-  },
-  "cordova-plugin-compat": {
-    "source": {
-      "type": "registry",
-      "id": "cordova-plugin-compat@^1.0.0"
-    },
-    "is_top_level": false,
-    "variables": {}
-  },
-  "phonegap-plugin-barcodescanner": {
-    "source": {
-      "type": "registry",
-      "id": "phonegap-plugin-barcodescanner@7.0.0"
-    },
-    "is_top_level": true,
     "variables": {}
   }
 }
